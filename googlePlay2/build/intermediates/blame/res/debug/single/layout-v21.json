@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "G:\\Studio_App\\MyTest\\GooglePlay\\googlePlay2\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
